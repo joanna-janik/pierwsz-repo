@@ -6,6 +6,7 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 
 - Imię i nazwisko: Joanna Janik
 - Czym się zajmuję: Student PWr - Analiza danych od podstaw
+- Radosław Wątrucki
 
 ## Czego się tu uczę
 
